@@ -1,1 +1,1 @@
-web: gunicorn murphy.wsgi --log-file -
+web: gunicorn payanyone.wsgi --log-file -
